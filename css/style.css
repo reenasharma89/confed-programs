@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background: white;
+  margin: 0 auto;
+  color: #333;
+}
+
+header {
+  background-color: #005983;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.program-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1rem;
+  background: #f8f9fa;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.program-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.program-link {
+  display: inline-block;
+  margin-top: auto;
+  padding: 0.25rem 0.50rem;
+  background: #005983;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  width: 25%;
+}
