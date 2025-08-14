@@ -33,8 +33,8 @@ Approximate Time Spent
 
 Total: 80 minutes approx
 
-JSON handling & validation: 40 min
-UI layout & styling: 20 min
+JSON handling & validation: 40 min<br/>
+UI layout & styling: 20 min<br/>
 GitHub setup & deployment: 20 min
 
 Tradeoffs / Design Choices
@@ -43,4 +43,5 @@ Tradeoffs / Design Choices
 2. Added validation to handle missing mission statements with a fallback message.
 3. Removed duplicate program IDs to ensure only unique programs are displayed.
 4. Used a simple grid layout for clean presentation.
+
 
