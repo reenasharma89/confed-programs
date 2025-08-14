@@ -24,7 +24,6 @@ The site will open in your browser at http://127.0.0.1:5500/ (or similar).
 
 # Deployment
 
-The project is deployed to:
 Live Site URL: https://reenasharma89.github.io/confed-programs
 
 Deployment Method: GitHub Pages (or Netlify / Vercel if used).
@@ -43,6 +42,7 @@ GitHub setup & deployment: 20 min
 2. Added validation to handle missing mission statements with a fallback message.
 3. Removed duplicate program IDs to ensure only unique programs are displayed.
 4. Used a simple grid layout for clean presentation.
+
 
 
 
