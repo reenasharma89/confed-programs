@@ -1,6 +1,6 @@
 ﻿A one-page static website that displays programs from a provided json file.
 
-It contain following files and idea to make spreate file so that clear and maintanable code
+It contains the following files, and the idea is to create separate files to keep the code clear and maintainable.
 
 css/style.css -> Layout and Styling<br/>
 js/api.js -> for fetch programs<br/>
@@ -42,6 +42,7 @@ GitHub setup & deployment: 20 min
 2. Added validation to handle missing mission statements with a fallback message.
 3. Removed duplicate program IDs to ensure only unique programs are displayed.
 4. Used a simple grid layout for clean presentation.
+
 
 
 
